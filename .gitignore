@@ -1,0 +1,12 @@
+# Data
+data/
+models/
+results/
+
+# Environment
+.env
+.venv/
+__pycache__/
+
+# Wandb
+wandb/
